@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![img|182x196](https://github.com/marco-montesdeoca/marco-montesdeoca.github.io/raw/main/Foto_Marco_Montes_de_Oca.png)
+<img src="https://github.com/marco-montesdeoca/marco-montesdeoca.github.io/raw/main/Foto_Marco_Montes_de_Oca.png" width="182" height="196">
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
