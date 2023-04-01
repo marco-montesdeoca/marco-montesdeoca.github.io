@@ -3,113 +3,27 @@ layout: default
 ---
 <img src="https://github.com/marco-montesdeoca/marco-montesdeoca.github.io/raw/main/Foto_Marco_Montes_de_Oca.png" width="182" height="196">
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Desde que terminé la carrera de Bioquímica en la Universidad Austral de Chile, me ha interesado transferir conocimientos del campo de la Biología Molecular a las Ciencias Aplicadas. Estudiar una maestría en ciencias (Bioinformática) en la Universidad de Melbourne me abrió las puertas de los datos genómicos. Lo hice bajo el programa Becas Chile de la ANID.
+Durante el segundo año de la pandemia tuve la oportunidad de contribuir a la investigación del SARS-CoV-2 en la Universidad de Magallanes. Actualmente formo parte del Centro de Investigaciones Biológicas Aplicadas (CIBA), y estoy principalmente interesado en virus relevantes para la industria acuícola. 
 
-[LinkedIn](https://www.linkedin.com/in/marco-montes-de-oca-809383132/).
+[Perfil en LinkedIn](https://www.linkedin.com/in/marco-montes-de-oca-809383132/)
 
-There should be whitespace between paragraphs.
+# Publicaciones
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[2022: Isolation of a New Infectious Pancreatic Necrosis Virus (IPNV) Variant from Genetically Resistant Farmed Atlantic Salmon (Salmo salar) during 2021–2022](https://www.mdpi.com/2076-0817/11/11/1368)
 
-# Header 1
+[2022: Differential neutralizing antibody responses elicited by CoronaVac and BNT162b2 against SARS-CoV-2 Lambda in Chile](https://www.nature.com/articles/s41564-022-01092-1)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[2021: Mutation in a SARS-CoV-2 Haplotype from Sub-Antarctic Chile Reveals New Insights into the Spike’s Dynamics](https://www.mdpi.com/1999-4915/13/5/883)
 
-## Header 2
+[2019: On the relevance of vitamins C and E during embryonic and paralarval development of Patagonian red octopus Enteroctopus megalocyathus](https://www.sciencedirect.com/science/article/abs/pii/S0044848617325917?via%3Dihub)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[2015: Glutathione Depletion Induces Spermatogonial Cell Autophagy](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcb.25178)
 
-### Header 3
+# Cursos
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/9MHZW3N7LNG6)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/7UZ42AJK8YEL)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[The Unix Workbench](https://www.coursera.org/account/accomplishments/verify/PYK97H239F8C)
