@@ -13,4 +13,4 @@ sass:
 
 # Personalización del color de fondo
 scss:
-  $body-bg: "#4E79A7"  # Cambia el color de fondo aquí
+  $body-bg: "#4E79A7"  # Cambia el color de fondo a Tableau Blue
