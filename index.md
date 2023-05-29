@@ -7,3 +7,4 @@ Desde que terminé la carrera de Bioquímica en la Universidad Austral de Chile,
 Durante el segundo año de la pandemia tuve la oportunidad de contribuir a la investigación del SARS-CoV-2 en la Universidad de Magallanes. Actualmente formo parte del Centro de Investigaciones Biológicas Aplicadas (CIBA), y estoy principalmente interesado en virus relevantes para la industria acuícola. 
 
 [Perfil en LinkedIn](https://www.linkedin.com/in/marco-montes-de-oca-809383132/)
+[**Publicaciones**](publicaciones.md) | [**Cursos**](cursos.md)
