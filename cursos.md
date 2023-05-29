@@ -1,5 +1,15 @@
 ## Cursos
 
+* [Python Project for Data Science](https://coursera.org/verify/DZJAN52FR3AV)
+
+* [Python for Data Science, AI & Development](https://coursera.org/verify/WVHPD9Y9VQHN)
+
+* [Data Science Methodology](https://coursera.org/verify/KJZ5W4885T3H)
+
+* [Tools for Data Science](https://coursera.org/verify/DUHEBGWGXLKE)
+
+* [What is Data Science?](https://coursera.org/verify/V3YF6GRMXEGS)
+
 * [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/9MHZW3N7LNG6)
 
 * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/7UZ42AJK8YEL)
