@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div class="title">
+    <h1>MSc. Marco Montes de Oca</h1>
+    <h2>Bioinformático</h2>
+</div>
+
 <style>
     .title {
         background-color: #6FBFFD; /* Cambia el color de fondo aquí */
@@ -9,11 +14,6 @@ layout: default
         padding: 10px; /* Ajusta el espacio interno del título si es necesario */
     }
 </style>
-
-<div class="title">
-    <h1>MSc. Marco Montes de Oca</h1>
-    <h2>Bioinformático</h2>
-</div>
 
 <img src="https://github.com/marco-montesdeoca/marco-montesdeoca.github.io/raw/main/Foto_Marco_Montes_de_Oca.png" width="182" height="196">
 
