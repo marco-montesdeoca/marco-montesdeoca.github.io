@@ -3,14 +3,3 @@ description: Bioinformático
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
-
-# Personalización del tema Slate
-sass:
-  style: compressed
-  sass_dir: _sass
-  include:
-    - "*.scss"
-
-# Personalización del color de fondo
-scss:
-  $body-bg: "#4E79A7"  # Cambia el color de fondo a Tableau Blue
