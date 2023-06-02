@@ -6,7 +6,7 @@ Determinar la identidad entre secuencias es clave. Nos ayuda a entender las rela
 
 <img src="https://raw.githubusercontent.com/marco-montesdeoca/marco-montesdeoca.github.io/main/identity_matrix.png" width="300" height="300">
 
-En el clustermap se destaca que secuencias poseen mayor identidad. Se destacan dos grupos o clusters de secuencias con mayor identidad. ¿Qué secuencias son más idénticas entre sí? Puedes revisar a qué virus corresponden copiando sus nombres y buscándolos en la base de datos [NCBI](https://www.ncbi.nlm.nih.gov/). 
+En el clustermap se destacan dos grupos o clusters de secuencias con mayor identidad. ¿Qué secuencias son más idénticas entre sí? Puedes revisar a qué virus corresponden copiando sus nombres (sin incluir la extensión ".fasta") y buscándolos en la base de datos [NCBI](https://www.ncbi.nlm.nih.gov/). 
 
 * [Ver código](https://github.com/marco-montesdeoca/identity_matrix/blob/main/identity_matrix.ipynb)
 
