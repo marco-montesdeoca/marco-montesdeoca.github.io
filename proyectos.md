@@ -2,7 +2,7 @@
 
 ### Detección de cáncer de colon con inteligencia artificial, efecto del aprendizaje por transferencia
 
-La inteligencia artificial (IA) ha demostrado su potencial en múltiples campos, incluida la clasificación de imágenes. Los modelos masivos como ResNet50 pueden clasificar miles de entidades regulares distintas, como automóviles o animales, y se entrenaron con millones de imágenes etiquetadas. Sin embargo, sus aplicaciones pueden ir más allá de sus objetivos iniciales con una metodología conocida como aprendizaje por transferencia (TL). Con TL podemos reorientar un modelo potente como ResNet50 hacia un problema de clasificación de nuestro interés. En este cuaderno hacemos uso de este modelo aplicando TL para clasificar imágenes histológicas de tejido de colon normal y canceroso.
+La inteligencia artificial (IA) ha demostrado su potencial en múltiples campos, incluida la clasificación de imágenes. Los modelos masivos como [ResNet50](https://arxiv.org/abs/1512.03385) pueden clasificar miles de entidades regulares distintas, como automóviles o animales, y se entrenaron con millones de imágenes etiquetadas. Sin embargo, sus aplicaciones pueden ir más allá de sus objetivos iniciales con una metodología conocida como aprendizaje por transferencia (TL). Con TL podemos reorientar un modelo potente como ResNet50 hacia un problema de clasificación de nuestro interés. En este cuaderno hacemos uso de este modelo implementado en la librería [Keras](https://keras.io/) aplicando TL para clasificar imágenes histológicas de tejido de colon normal y canceroso.
 
 <img src="https://raw.githubusercontent.com/marco-montesdeoca/Transfer_learning/main/TL%20impact.png" width="450" height="300">
 
