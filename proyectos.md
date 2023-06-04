@@ -1,5 +1,15 @@
 ## Proyectos
 
+### Detección de cáncer de colon con inteligencia artificial, efecto del aprendizaje por transferencia
+
+La inteligencia artificial (IA) ha demostrado su potencial en múltiples campos, incluida la clasificación de imágenes. Los modelos masivos como ResNet50 pueden clasificar miles de entidades regulares distintas, como automóviles o animales, y se entrenaron con millones de imágenes etiquetadas. Sin embargo, sus aplicaciones pueden ir más allá de sus objetivos iniciales con una metodología conocida como aprendizaje por transferencia (TL). Con TL podemos reorientar un modelo potente como ResNet50 hacia un problema de clasificación de nuestro interés. En este cuaderno hacemos uso de este modelo aplicando TL para clasificar imágenes histológicas de tejido de colon normal y canceroso.
+
+<img src="https://raw.githubusercontent.com/marco-montesdeoca/Transfer_learning/main/TL%20impact.png" width="300" height="300">
+
+En el gráfico se aprecia cómo aplicando aprendizaje por transferencia el modelo ResNet50 alcanza un 99% de exactitud al clasificar imágenes histológicas de tejido de colon normal y canceroso.
+
+* [Ver código](https://github.com/marco-montesdeoca/Transfer_learning/blob/main/transfer_learning.ipynb)
+
 ### Matriz de identidad
 
 Determinar la identidad entre secuencias es clave. Nos ayuda a entender las relaciones evolutivas entre aislados, o a inferir la función de una secuencia nueva, entre otros. En el siguiente script en Python podemos ver como aplicar alineamientos locales de secuencias mediante el algoritmo Smith-Waterman.
