@@ -4,7 +4,7 @@
 
 La inteligencia artificial (IA) ha demostrado su potencial en múltiples campos, incluida la clasificación de imágenes. Los modelos masivos como ResNet50 pueden clasificar miles de entidades regulares distintas, como automóviles o animales, y se entrenaron con millones de imágenes etiquetadas. Sin embargo, sus aplicaciones pueden ir más allá de sus objetivos iniciales con una metodología conocida como aprendizaje por transferencia (TL). Con TL podemos reorientar un modelo potente como ResNet50 hacia un problema de clasificación de nuestro interés. En este cuaderno hacemos uso de este modelo aplicando TL para clasificar imágenes histológicas de tejido de colon normal y canceroso.
 
-<img src="https://raw.githubusercontent.com/marco-montesdeoca/Transfer_learning/main/TL%20impact.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/marco-montesdeoca/Transfer_learning/main/TL%20impact.png" width="450" height="300">
 
 En el gráfico se aprecia cómo aplicando aprendizaje por transferencia el modelo ResNet50 alcanza un 99% de exactitud al clasificar imágenes histológicas de tejido de colon normal y canceroso.
 
