@@ -1,6 +1,6 @@
 ## Cursos
 
-* [Databases and SQL for Data Science w ith Python](https://coursera.org/verify/PN6WC3MP8UK7)
+* [Databases and SQL for Data Science with Python](https://coursera.org/verify/PN6WC3MP8UK7)
 
 * [Python Project for Data Science](https://coursera.org/verify/DZJAN52FR3AV)
 
