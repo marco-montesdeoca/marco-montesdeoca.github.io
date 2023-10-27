@@ -1,5 +1,7 @@
 ## Publicaciones
 
+* [Bacterial networks in Atlantic salmon with Piscirickettsiosis](https://www.nature.com/articles/s41598-023-43345-x)
+
 * [2022: Isolation of a New Infectious Pancreatic Necrosis Virus (IPNV) Variant from Genetically Resistant Farmed Atlantic Salmon (Salmo salar) during 2021–2022](https://www.mdpi.com/2076-0817/11/11/1368)
 
 * [2022: Differential neutralizing antibody responses elicited by CoronaVac and BNT162b2 against SARS-CoV-2 Lambda in Chile](https://www.nature.com/articles/s41564-022-01092-1)
