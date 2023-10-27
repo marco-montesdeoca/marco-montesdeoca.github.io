@@ -1,8 +1,10 @@
 ## Publicaciones
 
-* [2023: Evolution and Current Status of Influenza A Virus in Chile: A Review] (https://www.mdpi.com/2076-0817/12/10/1252)
+* [2023: Evolution and Current Status of Influenza A Virus in Chile: A Review](https://www.mdpi.com/2076-0817/12/10/1252)
 
 * [2023: Bacterial networks in Atlantic salmon with Piscirickettsiosis](https://www.nature.com/articles/s41598-023-43345-x)
+
+* [2023: Artemia enrichment as modulator of gene expression patterns of Enteroctopus megalocyathus paralarvae at pre-settlement stage](https://www.sciencedirect.com/science/article/abs/pii/S0044848623009420)
 
 * [2022: Isolation of a New Infectious Pancreatic Necrosis Virus (IPNV) Variant from Genetically Resistant Farmed Atlantic Salmon (Salmo salar) during 2021–2022](https://www.mdpi.com/2076-0817/11/11/1368)
 
