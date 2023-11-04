@@ -1,5 +1,17 @@
 ## Proyectos
 
+### Nube de palabras
+
+Una imagen vale más que 1000 palabras. Una manera interesante de resumir el contenido de un texto es mediante las nubes de palabras. En este tipo de visualización, las palabras más frecuentes de un texto se destacan en mayor tamaño. En este script resumimos el contenido de la constitución de Chile vigente, así como de la propuesta de constitución 2023.
+
+Aquí tenemos la nube de palabras del documento actual:
+<img src="https://raw.githubusercontent.com/marco-montesdeoca/nubes_de_palabras/main/actual.png" width="1000" height="750">
+
+Y la nube de palabras de la propuesta 2023:
+<img src="https://raw.githubusercontent.com/marco-montesdeoca/nubes_de_palabras/main/propuesta.png" width="1000" height="750">
+
+¿Qué cambios puedes notar?
+
 ### Impacto del aprendizaje por transferencia en la clasificación de imágenes por inteligencia artificial
 
 La inteligencia artificial (IA) ha demostrado su potencial en múltiples campos, incluida la clasificación de imágenes. Los modelos masivos como [ResNet50](https://arxiv.org/abs/1512.03385) pueden clasificar miles de entidades regulares distintas, como automóviles o animales, y se entrenaron con millones de imágenes etiquetadas. Sin embargo, sus aplicaciones pueden ir más allá de sus objetivos iniciales con una metodología conocida como aprendizaje por transferencia (TL). Con TL podemos reorientar un modelo potente como ResNet50 hacia un problema de clasificación de nuestro interés. A continuación hacemos uso de este modelo implementado en la librería [Keras](https://keras.io/) aplicando TL para clasificar imágenes de dos tipos de datos. En primer lugar clasificamos imágenes histológicas de tejido de colon normal y canceroso. Luego, aplicamos este método para clasificar imágenes de limones de alta y baja calidad.
