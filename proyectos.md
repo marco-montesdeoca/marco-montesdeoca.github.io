@@ -3,14 +3,13 @@
 ### Nube de palabras
 
 Una imagen vale más que 1000 palabras. Una manera interesante de resumir el contenido de un texto es mediante las nubes de palabras. En este tipo de visualización, las palabras más frecuentes de un texto se destacan en mayor tamaño. En este script resumimos el contenido de la constitución de Chile vigente, así como de la propuesta de constitución 2023.
-
 Aquí tenemos la nube de palabras del documento actual:
 <img src="https://raw.githubusercontent.com/marco-montesdeoca/nubes_de_palabras/main/actual.png" width="1000" height="750">
 
 Y la nube de palabras de la propuesta 2023:
 <img src="https://raw.githubusercontent.com/marco-montesdeoca/nubes_de_palabras/main/propuesta.png" width="1000" height="750">
-
 ¿Qué cambios puedes notar?
+Si quieres saber cómo generar tu propia nube de palabras a partir de cualquier archivo pdf, visita el script [aquí](https://github.com/marco-montesdeoca/nubes_de_palabras/blob/main/Nube_de_palabras.ipynb)
 
 ### Impacto del aprendizaje por transferencia en la clasificación de imágenes por inteligencia artificial
 
