@@ -1,6 +1,6 @@
 ## Publicaciones
 
-*[2023: Salmo salar Skin and Gill Microbiome during Piscirickettsia salmonis Infection](https://www.mdpi.com/2076-2615/14/1/97)
+* [2023: Salmo salar Skin and Gill Microbiome during Piscirickettsia salmonis Infection](https://www.mdpi.com/2076-2615/14/1/97)
 
 * [2023: Evolution and Current Status of Influenza A Virus in Chile: A Review](https://www.mdpi.com/2076-0817/12/10/1252)
 
