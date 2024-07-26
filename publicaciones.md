@@ -1,5 +1,9 @@
 ## Publicaciones
 
+* [2024: Parvoviruses of Aquatic Animals](https://www.mdpi.com/2076-0817/13/8/625)
+
+* [2024: Microbiome Re-Colonization Dynamics of an Atlantic Salmon Recirculating Aquaculture System Moving Bed Biofilter Following Naoh/Ch3co3h Knockout](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853702)
+
 * [2023: Genomics of Re-Emergent Aeromonas salmonicida in Atlantic Salmon Outbreaks](https://www.mdpi.com/2076-2607/12/1/64)
 
 * [2023: Salmo salar Skin and Gill Microbiome during Piscirickettsia salmonis Infection](https://www.mdpi.com/2076-2615/14/1/97)
