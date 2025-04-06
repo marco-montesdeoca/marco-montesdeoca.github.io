@@ -1,4 +1,4 @@
-## Publicaciones
+## Publications
 
 * [2024: Parvoviruses of Aquatic Animals](https://www.mdpi.com/2076-0817/13/8/625)
 
@@ -24,4 +24,4 @@
 
 * [2015: Glutathione Depletion Induces Spermatogonial Cell Autophagy](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcb.25178)
 
-[Volver al menú principal](index.md)
+[Back to home](index.md)
