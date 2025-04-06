@@ -1,4 +1,4 @@
-## Cursos
+## Courses
 
 * [Data Visualization with Python](https://coursera.org/verify/5F6TEDGP5PZA)
 
@@ -22,4 +22,4 @@
 
 * [The Unix Workbench](https://www.coursera.org/account/accomplishments/verify/PYK97H239F8C)
 
-[Volver al menú principal](index.md)
+[Back to home](index.md)
