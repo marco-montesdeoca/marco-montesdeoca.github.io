@@ -60,4 +60,4 @@ For more details about the data source, you can review the script.
 
 * [View code](https://github.com/marco-montesdeoca/Differential_expression/blob/main/Differential_expression.ipynb)
 
-[View code](index.md)
+[Back to home](index.md)
