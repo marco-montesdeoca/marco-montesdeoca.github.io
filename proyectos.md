@@ -7,7 +7,7 @@ This project presents an interactive web dashboard developed with Streamlit, des
 
 Available at: [https://amrtrendanalysis-zoajgryzuojpr3f9atwicc.streamlit.app/](https://amrtrendanalysis-zoajgryzuojpr3f9atwicc.streamlit.app/)
 
-<img src="https://raw.githubusercontent.com/marco-montesdeoca/amr_trend_analysis/refs/heads/main/dashboard_preview.png" width="1000" height="650">
+<img src="https://raw.githubusercontent.com/marco-montesdeoca/amr_trend_analysis/refs/heads/main/dashboard_preview.png" width="1000" height="550">
 
 This dashboard demonstrates my ability to:
 
